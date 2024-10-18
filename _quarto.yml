@@ -11,6 +11,6 @@ website:
       - about.qmd
 format:
   html:
-    theme: quartz
+    theme: success
     # css: my-style.css
     # toc: true
