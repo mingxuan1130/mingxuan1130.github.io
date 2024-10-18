@@ -13,3 +13,4 @@ website:
 format:
   html:
     theme: success
+    mainfont: "'Roboto', sans-serif"
