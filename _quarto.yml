@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/mingxuan1130/mingxuan1130.github.io
 
 format:
     html:
@@ -17,11 +20,3 @@ format:
       #Since "mainfont: "'EB Garamond'', sans-serif"" does not available 
       #through the local system, but I try "googlefonts: EB Garamond" 
       #and that works, so I will just use that
-      
-navbar:
-tools:
-- icon: github
-href: https://github.com/mingxuan1130/mingxuan1130.github.io
-
-
-    
