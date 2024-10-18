@@ -9,11 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+
 format:
   html:
-    theme: quartz
-    mainfont: "'Roboto', sans-serif"
     theme: success
-    # css: my-style.css
-    # toc: true
-
