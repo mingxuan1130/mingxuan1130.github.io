@@ -1,8 +1,17 @@
 ---
 title: "Home Page"
-about:
-template: jolla
 image: /Users/coffeer/Desktop/WechatIMG202.jpeg
+---
+about:
+  template: jolla
+  image: /WechatIMG202.jpeg
+  links:
+    - icon: buildings
+      text: UChicago Page
+      href: https://cam.uchicago.edu/people/profile/mingxuan-liu/
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/michaelmingxuanliu
 ---
 
 ## 
