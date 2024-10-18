@@ -13,8 +13,10 @@ website:
 format:
     html:
       theme: flatly
-      css: styles.css
-      mainfont: "'EB Garamond', sans-serif" 
+      googlefonts: EB Garamond
+      #Since "mainfont: "'EB Garamond'', sans-serif"" does not available 
+      #through the local system, but I try "googlefonts: EB Garamond" 
+      #and that works, so I will just use that
       
 navbar:
 tools:
