@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: success
+    theme: faltly
     mainfont: "'Roboto', sans-serif"
     
 navbar:
