@@ -14,3 +14,8 @@ format:
   html:
     theme: success
     mainfont: "'Roboto', sans-serif"
+    
+navbar:
+tools:
+- icon: github
+href: https://github.com/mingxuan1130/mingxuan1130.github.io
