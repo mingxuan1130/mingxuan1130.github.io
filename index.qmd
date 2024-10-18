@@ -1,6 +1,8 @@
 ---
 title: "Home Page"
-editor: visual
+about:
+template: jolla
+image: /Users/coffeer/Desktop/WechatIMG202.jpeg
 ---
 
 ## 
