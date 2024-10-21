@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home Page",
-    "section": "",
-    "text": "Michael (Mingxuan) Liu is a master’s student majoring in Computational and Applied Mathematics at the University of Chicago. He received his undergraduate degree from the University of Illinois at Urbana-Champaign (UIUC), where he majored in Mathematics with a concentration in Data Optimization. Through his past work and project experiences, he has developed skills in areas such as data analytics, machine learning, deep learning, and quantitative finance, including option pricing, stochastic calculus, and fixed income analysis. His passion lies in leveraging mathematical and statistical tools to solve data and financial problems using his coding abilities. In his free time, he enjoys playing the game of Go, and his favorite player is Lee Sedol, the first human to beat AlphaGo."
-  },
-  {
     "objectID": "About.html",
     "href": "About.html",
     "title": "About",
     "section": "",
     "text": "This is a personal website I am making for STAT 37815: Practical R Programming with Extensions with Dr. McShane. After this website is graded, I will create a personal version that includes my internship project, research experience, and relevant school projects. —"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "Michael (Mingxuan) Liu is a master’s student majoring in Computational and Applied Mathematics at the University of Chicago. He received his undergraduate degree from the University of Illinois at Urbana-Champaign (UIUC), where he majored in Mathematics with a concentration in Data Optimization. Through his past work and project experiences, he has developed skills in areas such as data analytics, machine learning, deep learning, and quantitative finance, including option pricing, stochastic calculus, and fixed income analysis. His passion lies in leveraging mathematical and statistical tools to solve data and financial problems using his coding abilities. In his free time, he enjoys playing the game of Go, and his favorite player is Lee Sedol, the first human to beat AlphaGo."
   }
 ]
